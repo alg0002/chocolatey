@@ -8,3 +8,7 @@ chocolateyのインストールが完了したら以下のコマンドでパッ�
 
     cinst packages.config
 
+
+## packages.configについて
+
+[本家Wiki](https://github.com/chocolatey/choco/wiki/CommandsInstall#packagesconfig)を参照
